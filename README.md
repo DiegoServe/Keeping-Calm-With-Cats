@@ -32,5 +32,4 @@ A responsive and dynamic website to help users interact with images, GIFs, and f
 
 ## Website
 
-https://vpratnicki.github.io/Keep-Calm-with-Cats
-
+https://diegoserve.github.io/Keeping-Calm-With-Cats/
